@@ -1,0 +1,4 @@
+﻿  ConsoleApplication10.cpp
+c:\users\user\desktop\курсовая\lab3\consoleapplication10\consoleapplication10.cpp(334): warning C4101: b: неиспользованная локальная переменная
+c:\users\user\desktop\курсовая\lab3\consoleapplication10\consoleapplication10.cpp(440): warning C4101: b: неиспользованная локальная переменная
+  ConsoleApplication10.vcxproj -> C:\Users\User\Desktop\Курсовая\Lab3\Debug\ConsoleApplication10.exe
